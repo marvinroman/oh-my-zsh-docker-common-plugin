@@ -1,5 +1,11 @@
 # Docker Common Aliases plugin
 
+## Install  
+
+```bash
+git clone https://github.com/marvinroman/oh-my-zsh-docker-common-plugin.git ~/.oh-my-zsh/custom/plugins/docker-common
+```
+
 ## Aliases
 
 | Alias | Command | Description |
